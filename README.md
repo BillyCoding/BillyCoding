@@ -1,12 +1,13 @@
-# 😎 Hello, who am I?.
+# 😎 Hey, Quem sou eu?
 
-👨‍💻 I'm **full-stack developer**;
+🧒🏻 Eu sou **Desenvolvedor Full-Stack**;
 
-🎯 Actually focusing to study **full-stack development**;
+💍 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩
 
-👨‍🎓 Currently graduating in **Computer Technician**.
+💻 𝗥𝗲𝘀𝗼𝗹𝘃𝗲𝗻𝗱𝗼 𝗯𝘂𝗴𝘀 𝗱𝗲𝘀𝗱𝗲 𝟮𝟬𝟭𝟳
 
-🔥 Every lessons learned 🎧
+🔥 𝗔𝗽𝗿𝗲𝗻𝗱𝗲𝗻𝗱𝗼 𝗰𝗮𝗱𝗮 𝗱𝗶𝗮 𝗺𝗮𝗶𝘀
+
 
 
 
