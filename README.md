@@ -1,6 +1,6 @@
 # 😎 Hey, Quem sou eu?
 
-🧒🏻 Eu sou **Desenvolvedor Full-Stack**;
+🧒🏻 Eu sou **Desenvolvedor Full-Stack**
 
 💍 𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩
 
@@ -12,4 +12,6 @@
 
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-ferreira-rocha-858716175?trk=people-guest_people_search-card) 
+
+## [![Instagram Badge](https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/billycoding) 
 
