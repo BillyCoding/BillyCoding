@@ -33,5 +33,5 @@
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgres&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
 
