@@ -1,8 +1,11 @@
 # 😎 Hey, Quem sou eu?
 
 🧒🏻 I'm a **Full-Stack** developer
+
 💍 Loving **TypeScript**
+
 💻 Solving bugs since **2017**
+
 🔥 In search of new knowledge
 
 
