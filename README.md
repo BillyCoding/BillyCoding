@@ -1,4 +1,4 @@
-# 😎 Hey, Quem sou eu?
+# 😎 Hey, Who am I?
 
 🧒🏻 I'm a **Full-Stack** developer
 
